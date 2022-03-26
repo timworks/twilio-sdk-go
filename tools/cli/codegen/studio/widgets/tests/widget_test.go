@@ -7,7 +7,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	widget "github.com/RJPearson94/twilio-sdk-go-tools/cli/codegen/studio/widgets"
+	widget "github.com/timworks/twilio-sdk-go-tools/cli/codegen/studio/widgets"
 )
 
 var _ = Describe("Widget CodeGen", func() {

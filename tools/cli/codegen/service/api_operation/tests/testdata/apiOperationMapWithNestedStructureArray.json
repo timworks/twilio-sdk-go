@@ -1,6 +1,6 @@
 {
   "packageName": "configuration",
-  "imports": ["github.com/RJPearson94/twilio-sdk-go/client"],
+  "imports": ["github.com/timworks/twilio-sdk-go/client"],
   "name": "Get",
   "http": {
     "uri": "/Configuration",

@@ -1,7 +1,7 @@
 {
   "packageName": "build",
   "name": "Create",
-  "imports": ["github.com/RJPearson94/twilio-sdk-go/client"],
+  "imports": ["github.com/timworks/twilio-sdk-go/client"],
   "http": {
     "uri": "/Services/{serviceSid}/Builds",
     "method": "Post",
