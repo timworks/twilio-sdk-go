@@ -5775,7 +5775,7 @@
         },
         {
           "name": "Sandbox",
-          "type": "bool",
+          "type": "string",
           "value": "Sandbox",
           "required": false
         },
@@ -5831,7 +5831,7 @@
         },
         {
           "name": "Sandbox",
-          "type": "bool",
+          "type": "string",
           "value": "sandbox",
           "required": false
         }

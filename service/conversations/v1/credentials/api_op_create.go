@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/client"
 )
 
 // CreateCredentialInput defines the input fields for creating a new credential resource
@@ -15,7 +15,7 @@ type CreateCredentialInput struct {
 	Certificate  *string `form:"Certificate,omitempty"`
 	FriendlyName *string `form:"FriendlyName,omitempty"`
 	PrivateKey   *string `form:"PrivateKey,omitempty"`
-	Sandbox      *bool   `form:"Sandbox,omitempty"`
+	Sandbox      *string `form:"Sandbox,omitempty"`
 	Secret       *string `form:"Secret,omitempty"`
 	Type         string  `validate:"required" form:"Type"`
 }
@@ -26,7 +26,7 @@ type CreateCredentialResponse struct {
 	DateCreated  time.Time  `json:"date_created"`
 	DateUpdated  *time.Time `json:"date_updated,omitempty"`
 	FriendlyName *string    `json:"friendly_name,omitempty"`
-	Sandbox      *bool      `json:"sandbox,omitempty"`
+	Sandbox      *string    `json:"sandbox,omitempty"`
 	Sid          string     `json:"sid"`
 	Type         string     `json:"type"`
 	URL          string     `json:"url"`

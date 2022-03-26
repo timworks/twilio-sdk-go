@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 // CredentialsPageOptions defines the query options for the api operation
@@ -24,7 +24,7 @@ type PageCredentialResponse struct {
 	DateCreated  time.Time  `json:"date_created"`
 	DateUpdated  *time.Time `json:"date_updated,omitempty"`
 	FriendlyName *string    `json:"friendly_name,omitempty"`
-	Sandbox      *bool      `json:"sandbox,omitempty"`
+	Sandbox      *string    `json:"sandbox,omitempty"`
 	Sid          string     `json:"sid"`
 	Type         string     `json:"type"`
 	URL          string     `json:"url"`
