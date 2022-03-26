@@ -1,7 +1,7 @@
 // Package toll_free contains auto-generated files. DO NOT MODIFY
 package toll_free
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing available toll free phone number resources
 // See https://www.twilio.com/docs/phone-numbers/api/availablephonenumber-tollfree-resource for more details

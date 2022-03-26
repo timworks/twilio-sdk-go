@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/client"
 )
 
 // FetchIpAccessControlListResponse defines the response fields for the retrieved IP access control list resource

@@ -1,7 +1,7 @@
 // Package real_time_statistics contains auto-generated files. DO NOT MODIFY
 package real_time_statistics
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing workspace real time statistics
 // See https://www.twilio.com/docs/taskrouter/api/workspace-statistics for more details

@@ -3,8 +3,8 @@ package messaging
 import (
 	"encoding/xml"
 
-	"github.com/RJPearson94/twilio-sdk-go/twiml/messaging/verbs"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/twiml/messaging/verbs"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 // MessagingResponse provides the structure and functions for generation TwiML that can be used

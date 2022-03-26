@@ -5,7 +5,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/client"
 )
 
 // FetchCountryResponse defines the response fields for retrieving available phone numbers for a specific country

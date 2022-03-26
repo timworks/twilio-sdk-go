@@ -1,7 +1,7 @@
 // Package credential_list contains auto-generated files. DO NOT MODIFY
 package credential_list
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific credential list resource
 // See https://www.twilio.com/docs/sip-trunking/api/credentiallist-resource for more details

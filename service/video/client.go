@@ -1,9 +1,9 @@
 package video
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	v1 "github.com/RJPearson94/twilio-sdk-go/service/video/v1"
-	"github.com/RJPearson94/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/client"
+	v1 "github.com/timworks/twilio-sdk-go/service/video/v1"
+	"github.com/timworks/twilio-sdk-go/session"
 )
 
 // Video client is used to manage versioned resources for Programmable Video

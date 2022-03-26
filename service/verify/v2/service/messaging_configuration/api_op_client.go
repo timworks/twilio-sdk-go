@@ -1,7 +1,7 @@
 // Package messaging_configuration contains auto-generated files. DO NOT MODIFY
 package messaging_configuration
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific messaging configuration resource
 type Client struct {

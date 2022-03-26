@@ -1,7 +1,7 @@
 // Package deployments contains auto-generated files. DO NOT MODIFY
 package deployments
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing deployment resources
 // See https://www.twilio.com/docs/runtime/functions-assets-api/api/deployment for more details

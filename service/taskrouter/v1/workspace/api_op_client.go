@@ -2,22 +2,22 @@
 package workspace
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/activities"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/activity"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/cumulative_statistics"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/real_time_statistics"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/statistics"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/task"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/task_channel"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/task_channels"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/task_queue"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/task_queues"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/tasks"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/worker"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/workers"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/workflow"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/workflows"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/activities"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/activity"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/cumulative_statistics"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/real_time_statistics"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/statistics"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/task"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/task_channel"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/task_channels"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/task_queue"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/task_queues"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/tasks"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/worker"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/workers"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/workflow"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/workflows"
 )
 
 // Client for managing a specific workspace resource

@@ -1,7 +1,7 @@
 // Package phone_number contains auto-generated files. DO NOT MODIFY
 package phone_number
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a lookup resource
 // See https://www.twilio.com/docs/lookup/api for more details

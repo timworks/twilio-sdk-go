@@ -1,9 +1,9 @@
 package twiml
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/twiml/fax"
-	"github.com/RJPearson94/twilio-sdk-go/twiml/messaging"
-	"github.com/RJPearson94/twilio-sdk-go/twiml/voice"
+	"github.com/timworks/twilio-sdk-go/twiml/fax"
+	"github.com/timworks/twilio-sdk-go/twiml/messaging"
+	"github.com/timworks/twilio-sdk-go/twiml/voice"
 )
 
 // TwiML manages the creation of Fax, Messaging and/ or Voice TwiML

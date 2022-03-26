@@ -1,7 +1,7 @@
 // Package origination_url contains auto-generated files. DO NOT MODIFY
 package origination_url
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific origination url resource
 // See https://www.twilio.com/docs/sip-trunking/api/originationurl-resource for more details

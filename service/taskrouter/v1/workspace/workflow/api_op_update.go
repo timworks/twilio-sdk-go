@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/client"
 )
 
 // UpdateWorkflowInput defines input fields for updating a workflow resource

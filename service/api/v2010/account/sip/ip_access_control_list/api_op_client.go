@@ -2,9 +2,9 @@
 package ip_access_control_list
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/ip_access_control_list/ip_address"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/ip_access_control_list/ip_addresses"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/ip_access_control_list/ip_address"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/ip_access_control_list/ip_addresses"
 )
 
 // Client for managing a specific IP Access Control List resource

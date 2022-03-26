@@ -2,9 +2,9 @@
 package fax
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/fax/v1/fax/media_file"
-	"github.com/RJPearson94/twilio-sdk-go/service/fax/v1/fax/media_files"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/fax/v1/fax/media_file"
+	"github.com/timworks/twilio-sdk-go/service/fax/v1/fax/media_files"
 )
 
 // Client for managing a specific fax resource

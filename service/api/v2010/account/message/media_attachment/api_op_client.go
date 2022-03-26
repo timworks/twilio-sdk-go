@@ -1,7 +1,7 @@
 // Package media_attachment contains auto-generated files. DO NOT MODIFY
 package media_attachment
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific message media attachment resource
 // See https://www.twilio.com/docs/sms/api/media-resource for more details

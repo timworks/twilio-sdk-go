@@ -2,10 +2,10 @@
 package task_queue
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/task_queue/cumulative_statistics"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/task_queue/real_time_statistics"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/task_queue/statistics"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/task_queue/cumulative_statistics"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/task_queue/real_time_statistics"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/task_queue/statistics"
 )
 
 // Client for managing a specific task queue resource

@@ -1,7 +1,7 @@
 // Package credential contains auto-generated files. DO NOT MODIFY
 package credential
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific role resource
 // See https://www.twilio.com/docs/notify/api/credential-resource for more details

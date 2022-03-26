@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/client"
 )
 
 // UpdateCompositionHookInput defines input fields for updating a composition hook resource. NOTE: This API does not support partial updates, please supply all necesary fields

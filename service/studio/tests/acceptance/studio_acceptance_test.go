@@ -10,15 +10,15 @@ import (
 	. "github.com/onsi/gomega"
 
 	"github.com/RJPearson94/twilio-sdk-go"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flow"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flow/execution"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flow/executions"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flow/revisions"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flow/test_users"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flow_validation"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flows"
-	"github.com/RJPearson94/twilio-sdk-go/session/credentials"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flow"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flow/execution"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flow/executions"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flow/revisions"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flow/test_users"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flow_validation"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flows"
+	"github.com/timworks/twilio-sdk-go/session/credentials"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 var flowDefinition = fmt.Sprintf(`

@@ -1,7 +1,7 @@
 // Package bucket contains auto-generated files. DO NOT MODIFY
 package bucket
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific rate limit bucket resource
 // See https://www.twilio.com/docs/verify/api/service-rate-limit-buckets for more details

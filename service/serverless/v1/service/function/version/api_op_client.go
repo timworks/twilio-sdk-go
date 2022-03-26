@@ -2,8 +2,8 @@
 package version
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/function/version/content"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/function/version/content"
 )
 
 // Client for managing a specific function version resource

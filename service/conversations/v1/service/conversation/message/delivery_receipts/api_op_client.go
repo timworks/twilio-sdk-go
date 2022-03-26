@@ -1,7 +1,7 @@
 // Package delivery_receipts contains auto-generated files. DO NOT MODIFY
 package delivery_receipts
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing delivery receipt resources
 // See https://www.twilio.com/docs/conversations/api/receipt-resource for more details

@@ -2,9 +2,9 @@
 package calls
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/calls/feedback_summaries"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/calls/feedback_summary"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/calls/feedback_summaries"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/calls/feedback_summary"
 )
 
 // Client for managing call resources

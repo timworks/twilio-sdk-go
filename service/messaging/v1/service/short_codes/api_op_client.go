@@ -1,7 +1,7 @@
 // Package short_codes contains auto-generated files. DO NOT MODIFY
 package short_codes
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing short code resources
 // See https://www.twilio.com/docs/sms/services/api/shortcode-resource for more details

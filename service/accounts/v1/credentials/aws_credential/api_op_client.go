@@ -1,7 +1,7 @@
 // Package aws_credential contains auto-generated files. DO NOT MODIFY
 package aws_credential
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific aws credential resource
 type Client struct {

@@ -9,14 +9,14 @@ import (
 	. "github.com/onsi/gomega"
 
 	"github.com/RJPearson94/twilio-sdk-go"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/credential"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/credentials"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/service"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/service/bindings"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/service/notifications"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/services"
-	sessionCredentials "github.com/RJPearson94/twilio-sdk-go/session/credentials"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/credential"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/credentials"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/service"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/service/bindings"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/service/notifications"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/services"
+	sessionCredentials "github.com/timworks/twilio-sdk-go/session/credentials"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 var _ = Describe("Notify Acceptance Tests", func() {

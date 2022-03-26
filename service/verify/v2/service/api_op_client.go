@@ -2,19 +2,19 @@
 package service
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/access_tokens"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/entities"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/entity"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/messaging_configuration"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/messaging_configurations"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/rate_limit"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/rate_limits"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/verification"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/verification_check"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/verifications"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/webhook"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/webhooks"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/access_tokens"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/entities"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/entity"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/messaging_configuration"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/messaging_configurations"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/rate_limit"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/rate_limits"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/verification"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/verification_check"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/verifications"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/webhook"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/webhooks"
 )
 
 // Client for managing a specific service resource

@@ -1,7 +1,7 @@
 // Package recording_settings contains auto-generated files. DO NOT MODIFY
 package recording_settings
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing the default recording settings
 // See https://www.twilio.com/docs/video/api/encrypted-recordings for more details

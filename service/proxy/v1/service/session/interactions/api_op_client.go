@@ -1,7 +1,7 @@
 // Package interactions contains auto-generated files. DO NOT MODIFY
 package interactions
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing interaction resources
 // See https://www.twilio.com/docs/proxy/api/interaction for more details

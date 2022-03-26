@@ -1,7 +1,7 @@
 // Package alpha_sender contains auto-generated files. DO NOT MODIFY
 package alpha_sender
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific alpha sender resource
 // See https://www.twilio.com/docs/sms/services/api/alphasender-resource for more details

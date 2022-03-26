@@ -1,7 +1,7 @@
 // Package notifications contains auto-generated files. DO NOT MODIFY
 package notifications
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing service notification resources
 // See https://www.twilio.com/docs/notify/api/notification-resource for more details

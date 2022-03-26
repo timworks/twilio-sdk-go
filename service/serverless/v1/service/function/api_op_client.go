@@ -2,9 +2,9 @@
 package function
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/function/version"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/function/versions"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/function/version"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/function/versions"
 )
 
 // Client for managing a specific function resource

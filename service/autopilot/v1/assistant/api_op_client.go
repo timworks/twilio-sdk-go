@@ -2,20 +2,20 @@
 package assistant
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/defaults"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/dialogue"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/field_type"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/field_types"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/model_build"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/model_builds"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/queries"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/query"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/style_sheet"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/task"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/tasks"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/webhook"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/webhooks"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/defaults"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/dialogue"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/field_type"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/field_types"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/model_build"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/model_builds"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/queries"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/query"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/style_sheet"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/task"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/tasks"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/webhook"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/webhooks"
 )
 
 // Client for managing a specific assistant resource

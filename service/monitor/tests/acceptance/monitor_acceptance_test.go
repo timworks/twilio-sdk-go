@@ -8,9 +8,9 @@ import (
 	. "github.com/onsi/gomega"
 
 	"github.com/RJPearson94/twilio-sdk-go"
-	"github.com/RJPearson94/twilio-sdk-go/service/monitor/v1/alerts"
-	"github.com/RJPearson94/twilio-sdk-go/service/monitor/v1/events"
-	"github.com/RJPearson94/twilio-sdk-go/session/credentials"
+	"github.com/timworks/twilio-sdk-go/service/monitor/v1/alerts"
+	"github.com/timworks/twilio-sdk-go/service/monitor/v1/events"
+	"github.com/timworks/twilio-sdk-go/session/credentials"
 )
 
 var _ = Describe("Monitor Acceptance Tests", func() {

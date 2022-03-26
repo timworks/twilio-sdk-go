@@ -1,7 +1,7 @@
 // Package flows contains auto-generated files. DO NOT MODIFY
 package flows
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing flow resources
 // See https://www.twilio.com/docs/studio/rest-api/v2/flow for more details

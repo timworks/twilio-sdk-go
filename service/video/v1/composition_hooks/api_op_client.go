@@ -1,7 +1,7 @@
 // Package composition_hooks contains auto-generated files. DO NOT MODIFY
 package composition_hooks
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing composition hook resources
 // See https://www.twilio.com/docs/video/api/composition-hooks for more details

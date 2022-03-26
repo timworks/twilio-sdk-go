@@ -2,11 +2,11 @@
 package room
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/video/v1/room/participant"
-	"github.com/RJPearson94/twilio-sdk-go/service/video/v1/room/participants"
-	"github.com/RJPearson94/twilio-sdk-go/service/video/v1/room/recording"
-	"github.com/RJPearson94/twilio-sdk-go/service/video/v1/room/recordings"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/video/v1/room/participant"
+	"github.com/timworks/twilio-sdk-go/service/video/v1/room/participants"
+	"github.com/timworks/twilio-sdk-go/service/video/v1/room/recording"
+	"github.com/timworks/twilio-sdk-go/service/video/v1/room/recordings"
 )
 
 // Client for managing a specific room resource

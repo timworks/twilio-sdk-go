@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 // FieldValuesPageOptions defines the query options for the api operation

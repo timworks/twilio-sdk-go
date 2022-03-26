@@ -1,7 +1,7 @@
 // Package phone_number contains auto-generated files. DO NOT MODIFY
 package phone_number
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific phone number resource
 // See https://www.twilio.com/docs/proxy/api/phone-number for more details

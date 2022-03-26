@@ -1,7 +1,7 @@
 // Package webhook contains auto-generated files. DO NOT MODIFY
 package webhook
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific webhook resource
 // See https://www.twilio.com/docs/conversations/api/conversation-scoped-webhook-resource for more details

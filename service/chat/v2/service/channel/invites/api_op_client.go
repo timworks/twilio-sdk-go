@@ -1,7 +1,7 @@
 // Package invites contains auto-generated files. DO NOT MODIFY
 package invites
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing invite resources
 // See twilio.com/docs/chat/rest/invite-resource for more details

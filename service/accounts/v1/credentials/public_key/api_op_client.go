@@ -1,7 +1,7 @@
 // Package public_key contains auto-generated files. DO NOT MODIFY
 package public_key
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific public key resource
 // See https://www.twilio.com/docs/iam/credentials/api for more details

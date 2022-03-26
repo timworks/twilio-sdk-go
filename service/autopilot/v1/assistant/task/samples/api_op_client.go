@@ -1,7 +1,7 @@
 // Package samples contains auto-generated files. DO NOT MODIFY
 package samples
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing task sample resources
 // See https://www.twilio.com/docs/autopilot/api/task-sample for more details

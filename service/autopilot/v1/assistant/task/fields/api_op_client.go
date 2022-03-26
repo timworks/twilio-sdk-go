@@ -1,7 +1,7 @@
 // Package fields contains auto-generated files. DO NOT MODIFY
 package fields
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing task field resources
 // See https://www.twilio.com/docs/autopilot/api/task-field for more details

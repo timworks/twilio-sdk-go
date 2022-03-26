@@ -1,7 +1,7 @@
 // Package plugin contains auto-generated files. DO NOT MODIFY
 package plugin
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific plugin resource
 // This client is currently in beta and subject to change. Please use with caution

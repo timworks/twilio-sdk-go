@@ -2,9 +2,9 @@
 package message
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/conversation/message/delivery_receipt"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/conversation/message/delivery_receipts"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/conversation/message/delivery_receipt"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/conversation/message/delivery_receipts"
 )
 
 // Client for managing a specific message resource

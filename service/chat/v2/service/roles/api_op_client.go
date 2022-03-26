@@ -1,7 +1,7 @@
 // Package roles contains auto-generated files. DO NOT MODIFY
 package roles
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing role resources
 // See https://www.twilio.com/docs/chat/rest/role-resource for more details

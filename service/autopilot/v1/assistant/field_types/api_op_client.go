@@ -1,7 +1,7 @@
 // Package field_types contains auto-generated files. DO NOT MODIFY
 package field_types
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing field type resources
 // See https://www.twilio.com/docs/autopilot/api/field-type for more details

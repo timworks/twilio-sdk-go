@@ -1,7 +1,7 @@
 // Package permission contains auto-generated files. DO NOT MODIFY
 package permission
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific document permissions resource
 // See https://www.twilio.com/docs/sync/api/document-permission-resource for more details

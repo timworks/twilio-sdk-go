@@ -2,11 +2,11 @@
 package v2
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flow"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flow_validation"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flows"
-	"github.com/RJPearson94/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flow"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flow_validation"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flows"
+	"github.com/timworks/twilio-sdk-go/session"
 )
 
 // Studio client is used to manage resources for Twilio Studio

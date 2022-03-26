@@ -11,15 +11,15 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts/v1/credentials/aws_credential"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts/v1/credentials/aws_credentials"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts/v1/credentials/public_key"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts/v1/credentials/public_keys"
-	"github.com/RJPearson94/twilio-sdk-go/session"
-	"github.com/RJPearson94/twilio-sdk-go/session/credentials"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/accounts"
+	"github.com/timworks/twilio-sdk-go/service/accounts/v1/credentials/aws_credential"
+	"github.com/timworks/twilio-sdk-go/service/accounts/v1/credentials/aws_credentials"
+	"github.com/timworks/twilio-sdk-go/service/accounts/v1/credentials/public_key"
+	"github.com/timworks/twilio-sdk-go/service/accounts/v1/credentials/public_keys"
+	"github.com/timworks/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/session/credentials"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 var _ = Describe("Accounts V1", func() {

@@ -2,8 +2,8 @@
 package step
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/studio/v2/flow/execution/step/context"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/studio/v2/flow/execution/step/context"
 )
 
 // Client for managing a specific step resource

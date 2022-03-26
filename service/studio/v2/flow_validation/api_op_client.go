@@ -1,7 +1,7 @@
 // Package flow_validation contains auto-generated files. DO NOT MODIFY
 package flow_validation
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing flow validation resources
 // See https://www.twilio.com/docs/studio/rest-api/v2/flow-validate for more details

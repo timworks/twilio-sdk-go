@@ -1,7 +1,7 @@
 // Package mobile contains auto-generated files. DO NOT MODIFY
 package mobile
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing available mobile phone number resources
 // See https://www.twilio.com/docs/phone-numbers/api/availablephonenumber-mobile-resource for more details

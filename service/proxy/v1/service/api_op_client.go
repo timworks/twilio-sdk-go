@@ -2,13 +2,13 @@
 package service
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/phone_number"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/phone_numbers"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/sessions"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/short_code"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/short_codes"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/phone_number"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/phone_numbers"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/sessions"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/short_code"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/short_codes"
 )
 
 // Client for managing a specific service resource

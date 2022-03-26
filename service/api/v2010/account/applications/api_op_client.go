@@ -1,7 +1,7 @@
 // Package applications contains auto-generated files. DO NOT MODIFY
 package applications
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing application resources
 // See https://www.twilio.com/docs/usage/api/applications for more details

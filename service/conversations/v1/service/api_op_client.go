@@ -2,16 +2,16 @@
 package service
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/service/binding"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/service/bindings"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/service/configuration"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/service/conversation"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/service/conversations"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/service/role"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/service/roles"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/service/user"
-	"github.com/RJPearson94/twilio-sdk-go/service/conversations/v1/service/users"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/service/binding"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/service/bindings"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/service/configuration"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/service/conversation"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/service/conversations"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/service/role"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/service/roles"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/service/user"
+	"github.com/timworks/twilio-sdk-go/service/conversations/v1/service/users"
 )
 
 // Client for managing a specific service resource

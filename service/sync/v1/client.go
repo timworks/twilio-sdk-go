@@ -2,10 +2,10 @@
 package v1
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/sync/v1/service"
-	"github.com/RJPearson94/twilio-sdk-go/service/sync/v1/services"
-	"github.com/RJPearson94/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/sync/v1/service"
+	"github.com/timworks/twilio-sdk-go/service/sync/v1/services"
+	"github.com/timworks/twilio-sdk-go/session"
 )
 
 // Sync client is used to manage resources for Twilio Sync

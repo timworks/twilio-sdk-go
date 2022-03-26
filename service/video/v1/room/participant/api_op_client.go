@@ -2,12 +2,12 @@
 package participant
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/video/v1/room/participant/published_track"
-	"github.com/RJPearson94/twilio-sdk-go/service/video/v1/room/participant/published_tracks"
-	"github.com/RJPearson94/twilio-sdk-go/service/video/v1/room/participant/subscribe_rules"
-	"github.com/RJPearson94/twilio-sdk-go/service/video/v1/room/participant/subscribed_track"
-	"github.com/RJPearson94/twilio-sdk-go/service/video/v1/room/participant/subscribed_tracks"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/video/v1/room/participant/published_track"
+	"github.com/timworks/twilio-sdk-go/service/video/v1/room/participant/published_tracks"
+	"github.com/timworks/twilio-sdk-go/service/video/v1/room/participant/subscribe_rules"
+	"github.com/timworks/twilio-sdk-go/service/video/v1/room/participant/subscribed_track"
+	"github.com/timworks/twilio-sdk-go/service/video/v1/room/participant/subscribed_tracks"
 )
 
 // Client for managing a specific participant resource

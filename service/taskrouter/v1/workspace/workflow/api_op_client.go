@@ -2,10 +2,10 @@
 package workflow
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/workflow/cumulative_statistics"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/workflow/real_time_statistics"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/workflow/statistics"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/workflow/cumulative_statistics"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/workflow/real_time_statistics"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/workflow/statistics"
 )
 
 // Client for managing a specific workflow resource

@@ -2,10 +2,10 @@
 package workers
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/workers/cumulative_statistics"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/workers/real_time_statistics"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace/workers/statistics"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/workers/cumulative_statistics"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/workers/real_time_statistics"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace/workers/statistics"
 )
 
 // Client for managing worker resources

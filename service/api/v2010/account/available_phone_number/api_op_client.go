@@ -2,10 +2,10 @@
 package available_phone_number
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/available_phone_number/local"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/available_phone_number/mobile"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/available_phone_number/toll_free"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/available_phone_number/local"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/available_phone_number/mobile"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/available_phone_number/toll_free"
 )
 
 // Client for managing available phone numbers for a specific country

@@ -1,7 +1,7 @@
 // Package queues contains auto-generated files. DO NOT MODIFY
 package queues
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing queue resources
 // See https://www.twilio.com/docs/voice/api/queue-resource for more details

@@ -1,7 +1,7 @@
 // Package feedback_summary contains auto-generated files. DO NOT MODIFY
 package feedback_summary
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific feedback summary resource
 // See https://www.twilio.com/docs/voice/api/feedbacksummary-resource for more details

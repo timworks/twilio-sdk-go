@@ -1,7 +1,7 @@
 // Package ip_address contains auto-generated files. DO NOT MODIFY
 package ip_address
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific IP Address resource
 type Client struct {

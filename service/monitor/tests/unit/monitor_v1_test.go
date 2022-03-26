@@ -11,13 +11,13 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/monitor"
-	"github.com/RJPearson94/twilio-sdk-go/service/monitor/v1/alerts"
-	"github.com/RJPearson94/twilio-sdk-go/service/monitor/v1/events"
-	"github.com/RJPearson94/twilio-sdk-go/session"
-	"github.com/RJPearson94/twilio-sdk-go/session/credentials"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/monitor"
+	"github.com/timworks/twilio-sdk-go/service/monitor/v1/alerts"
+	"github.com/timworks/twilio-sdk-go/service/monitor/v1/events"
+	"github.com/timworks/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/session/credentials"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 var _ = Describe("Monitor V1", func() {

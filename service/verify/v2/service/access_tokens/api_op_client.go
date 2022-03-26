@@ -1,7 +1,7 @@
 // Package access_tokens contains auto-generated files. DO NOT MODIFY
 package access_tokens
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing access token resources
 // See https://www.twilio.com/docs/verify/api/access-token for more details

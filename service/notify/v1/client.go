@@ -2,12 +2,12 @@
 package v1
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/credential"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/credentials"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/service"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/services"
-	"github.com/RJPearson94/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/credential"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/credentials"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/service"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/services"
+	"github.com/timworks/twilio-sdk-go/session"
 )
 
 // Notify client is used to manage resources for Twilio Notify

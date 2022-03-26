@@ -2,10 +2,10 @@
 package v1
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/fax/v1/fax"
-	"github.com/RJPearson94/twilio-sdk-go/service/fax/v1/faxes"
-	"github.com/RJPearson94/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/fax/v1/fax"
+	"github.com/timworks/twilio-sdk-go/service/fax/v1/faxes"
+	"github.com/timworks/twilio-sdk-go/session"
 )
 
 // Fax client is used to manage resources for Programmable Fax

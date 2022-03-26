@@ -1,7 +1,7 @@
 // Package published_tracks contains auto-generated files. DO NOT MODIFY
 package published_tracks
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing published track resources
 // See https://www.twilio.com/docs/video/api/track-subscriptions for more details

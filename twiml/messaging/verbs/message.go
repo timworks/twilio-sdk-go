@@ -3,7 +3,7 @@ package verbs
 import (
 	"encoding/xml"
 
-	"github.com/RJPearson94/twilio-sdk-go/twiml/messaging/verbs/nouns"
+	"github.com/timworks/twilio-sdk-go/twiml/messaging/verbs/nouns"
 )
 
 type MessageAttributes struct {

@@ -1,7 +1,7 @@
 // Package user contains auto-generated files. DO NOT MODIFY
 package user
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific user resource
 // See https://www.twilio.com/docs/conversations/api/user-resource for more details

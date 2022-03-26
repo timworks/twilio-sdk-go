@@ -3,9 +3,9 @@ package voice
 import (
 	"encoding/xml"
 
-	"github.com/RJPearson94/twilio-sdk-go/twiml/voice/verbs"
-	"github.com/RJPearson94/twilio-sdk-go/twiml/voice/verbs/nouns"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/twiml/voice/verbs"
+	"github.com/timworks/twilio-sdk-go/twiml/voice/verbs/nouns"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 // VoiceResponse provides the structure and functions for generation TwiML that can be used

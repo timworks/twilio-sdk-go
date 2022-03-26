@@ -1,7 +1,7 @@
 // Package message contains auto-generated files. DO NOT MODIFY
 package message
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific message resource
 // See https://www.twilio.com/docs/chat/rest/message-resource for more details

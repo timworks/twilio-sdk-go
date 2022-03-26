@@ -1,7 +1,7 @@
 // Package functions contains auto-generated files. DO NOT MODIFY
 package functions
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing function resources
 // See https://www.twilio.com/docs/runtime/functions-assets-api/api/function for more details

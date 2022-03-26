@@ -1,7 +1,7 @@
 // Package public_keys contains auto-generated files. DO NOT MODIFY
 package public_keys
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing public resources
 type Client struct {

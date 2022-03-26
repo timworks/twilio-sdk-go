@@ -2,9 +2,9 @@
 package plugin
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/flex/v1/plugin/version"
-	"github.com/RJPearson94/twilio-sdk-go/service/flex/v1/plugin/versions"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/flex/v1/plugin/version"
+	"github.com/timworks/twilio-sdk-go/service/flex/v1/plugin/versions"
 )
 
 // Client for managing a specific plugin resource

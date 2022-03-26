@@ -2,10 +2,10 @@
 package service
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/service/binding"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/service/bindings"
-	"github.com/RJPearson94/twilio-sdk-go/service/notify/v1/service/notifications"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/service/binding"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/service/bindings"
+	"github.com/timworks/twilio-sdk-go/service/notify/v1/service/notifications"
 )
 
 // Client for managing a specific service resource

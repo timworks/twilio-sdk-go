@@ -1,7 +1,7 @@
 // Package composition contains auto-generated files. DO NOT MODIFY
 package composition
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific composition resource
 // See https://www.twilio.com/docs/video/api/compositions-resource for more details

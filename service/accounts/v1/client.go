@@ -2,9 +2,9 @@
 package v1
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts/v1/credentials"
-	"github.com/RJPearson94/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/accounts/v1/credentials"
+	"github.com/timworks/twilio-sdk-go/session"
 )
 
 // Client for managing account resources

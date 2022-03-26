@@ -2,8 +2,8 @@
 package participant
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session/participant/message_interactions"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session/participant/message_interactions"
 )
 
 // Client for managing a specific participant resource

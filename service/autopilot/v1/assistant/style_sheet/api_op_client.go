@@ -1,7 +1,7 @@
 // Package style_sheet contains auto-generated files. DO NOT MODIFY
 package style_sheet
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing style sheet resources
 // See https://www.twilio.com/docs/autopilot/api/assistant/stylesheet for more details

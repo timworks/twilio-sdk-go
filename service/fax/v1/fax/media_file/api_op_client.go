@@ -1,7 +1,7 @@
 // Package media_file contains auto-generated files. DO NOT MODIFY
 package media_file
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific media resource
 // See https://www.twilio.com/docs/fax/api/fax-media-resource for more details

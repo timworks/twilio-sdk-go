@@ -1,7 +1,7 @@
 // Package task_channels contains auto-generated files. DO NOT MODIFY
 package task_channels
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing task channel resources
 // See https://www.twilio.com/docs/taskrouter/api/task-channel for more details

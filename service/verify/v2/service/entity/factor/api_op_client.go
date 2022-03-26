@@ -1,7 +1,7 @@
 // Package factor contains auto-generated files. DO NOT MODIFY
 package factor
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific factor resource
 // See https://www.twilio.com/docs/verify/api/factor for more details

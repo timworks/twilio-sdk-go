@@ -2,10 +2,10 @@
 package message
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/message/feedbacks"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/message/media_attachment"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/message/media_attachments"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/message/feedbacks"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/message/media_attachment"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/message/media_attachments"
 )
 
 // Client for managing a specific message resource

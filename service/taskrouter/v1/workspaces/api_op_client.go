@@ -1,7 +1,7 @@
 // Package workspaces contains auto-generated files. DO NOT MODIFY
 package workspaces
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing workspace resources
 // See https://www.twilio.com/docs/taskrouter/api/workspace for more details

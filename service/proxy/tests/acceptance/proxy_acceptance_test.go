@@ -10,17 +10,17 @@ import (
 	. "github.com/onsi/gomega"
 
 	"github.com/RJPearson94/twilio-sdk-go"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/phone_number"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/phone_numbers"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session/interactions"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session/participant/message_interactions"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session/participants"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/sessions"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/services"
-	"github.com/RJPearson94/twilio-sdk-go/session/credentials"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/phone_number"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/phone_numbers"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session/interactions"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session/participant/message_interactions"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session/participants"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/sessions"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/services"
+	"github.com/timworks/twilio-sdk-go/session/credentials"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 var _ = Describe("Proxy Acceptance Tests", func() {

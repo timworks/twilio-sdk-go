@@ -1,7 +1,7 @@
 // Package version contains auto-generated files. DO NOT MODIFY
 package version
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific asset version resource
 // See https://www.twilio.com/docs/runtime/functions-assets-api/api/asset for more details

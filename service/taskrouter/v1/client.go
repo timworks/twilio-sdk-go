@@ -2,10 +2,10 @@
 package v1
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspace"
-	"github.com/RJPearson94/twilio-sdk-go/service/taskrouter/v1/workspaces"
-	"github.com/RJPearson94/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspace"
+	"github.com/timworks/twilio-sdk-go/service/taskrouter/v1/workspaces"
+	"github.com/timworks/twilio-sdk-go/session"
 )
 
 // TaskRouter client is used to manage resources for Twilio TaskRouter

@@ -5,8 +5,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 // FetchCredentialListMappingResponse defines the response fields for retrieving a credential list mapping

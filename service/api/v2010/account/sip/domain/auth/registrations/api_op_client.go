@@ -2,9 +2,9 @@
 package registrations
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/domain/auth/registrations/credential_list_mapping"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/domain/auth/registrations/credential_list_mappings"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/domain/auth/registrations/credential_list_mapping"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/domain/auth/registrations/credential_list_mappings"
 )
 
 // Client for managing SIP domain auth registrations resources

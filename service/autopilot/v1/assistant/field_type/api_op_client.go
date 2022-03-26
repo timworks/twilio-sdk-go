@@ -2,9 +2,9 @@
 package field_type
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/field_type/field_value"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/field_type/field_values"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/field_type/field_value"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/field_type/field_values"
 )
 
 // Client for managing a specific field type resource

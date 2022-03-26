@@ -2,11 +2,11 @@
 package session
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session/interaction"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session/interactions"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session/participant"
-	"github.com/RJPearson94/twilio-sdk-go/service/proxy/v1/service/session/participants"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session/interaction"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session/interactions"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session/participant"
+	"github.com/timworks/twilio-sdk-go/service/proxy/v1/service/session/participants"
 )
 
 // Client for managing a specific session resource

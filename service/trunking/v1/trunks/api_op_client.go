@@ -1,7 +1,7 @@
 // Package trunks contains auto-generated files. DO NOT MODIFY
 package trunks
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing trunk resources
 // See https://www.twilio.com/docs/sip-trunking/api/trunk-resource for more details

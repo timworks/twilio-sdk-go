@@ -1,7 +1,7 @@
 // Package web_channel contains auto-generated files. DO NOT MODIFY
 package web_channel
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific web channel resource
 type Client struct {

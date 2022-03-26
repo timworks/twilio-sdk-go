@@ -2,9 +2,9 @@
 package auth
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/domain/auth/calls"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/domain/auth/registrations"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/domain/auth/calls"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/domain/auth/registrations"
 )
 
 // Client for managing SIP domain auth resources

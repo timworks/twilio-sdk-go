@@ -1,7 +1,7 @@
 // Package executions contains auto-generated files. DO NOT MODIFY
 package executions
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing execution resources
 // See https://www.twilio.com/docs/studio/rest-api/v2/execution for more details

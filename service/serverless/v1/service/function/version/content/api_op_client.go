@@ -1,7 +1,7 @@
 // Package content contains auto-generated files. DO NOT MODIFY
 package content
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing function version content resources
 // See https://www.twilio.com/docs/runtime/functions-assets-api/api/function-version/function-version-content for more details

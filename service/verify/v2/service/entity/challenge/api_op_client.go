@@ -1,7 +1,7 @@
 // Package challenge contains auto-generated files. DO NOT MODIFY
 package challenge
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific challenge resource
 // See https://www.twilio.com/docs/verify/api/challenge for more details

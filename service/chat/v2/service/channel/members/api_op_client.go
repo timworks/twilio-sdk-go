@@ -1,7 +1,7 @@
 // Package members contains auto-generated files. DO NOT MODIFY
 package members
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing member resources
 // See https://www.twilio.com/docs/chat/rest/member-resource for more details

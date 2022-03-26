@@ -2,15 +2,15 @@
 package channel
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/chat/v2/service/channel/invite"
-	"github.com/RJPearson94/twilio-sdk-go/service/chat/v2/service/channel/invites"
-	"github.com/RJPearson94/twilio-sdk-go/service/chat/v2/service/channel/member"
-	"github.com/RJPearson94/twilio-sdk-go/service/chat/v2/service/channel/members"
-	"github.com/RJPearson94/twilio-sdk-go/service/chat/v2/service/channel/message"
-	"github.com/RJPearson94/twilio-sdk-go/service/chat/v2/service/channel/messages"
-	"github.com/RJPearson94/twilio-sdk-go/service/chat/v2/service/channel/webhook"
-	"github.com/RJPearson94/twilio-sdk-go/service/chat/v2/service/channel/webhooks"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/chat/v2/service/channel/invite"
+	"github.com/timworks/twilio-sdk-go/service/chat/v2/service/channel/invites"
+	"github.com/timworks/twilio-sdk-go/service/chat/v2/service/channel/member"
+	"github.com/timworks/twilio-sdk-go/service/chat/v2/service/channel/members"
+	"github.com/timworks/twilio-sdk-go/service/chat/v2/service/channel/message"
+	"github.com/timworks/twilio-sdk-go/service/chat/v2/service/channel/messages"
+	"github.com/timworks/twilio-sdk-go/service/chat/v2/service/channel/webhook"
+	"github.com/timworks/twilio-sdk-go/service/chat/v2/service/channel/webhooks"
 )
 
 // Client for managing a specific channel resource

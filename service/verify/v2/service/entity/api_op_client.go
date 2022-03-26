@@ -2,11 +2,11 @@
 package entity
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/entity/challenge"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/entity/challenges"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/entity/factor"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/entity/factors"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/entity/challenge"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/entity/challenges"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/entity/factor"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/entity/factors"
 )
 
 // Client for managing a specific entity resource

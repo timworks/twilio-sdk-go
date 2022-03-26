@@ -1,7 +1,7 @@
 // Package binding contains auto-generated files. DO NOT MODIFY
 package binding
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific service binding resource
 // See https://www.twilio.com/docs/notify/api/binding-resource for more details

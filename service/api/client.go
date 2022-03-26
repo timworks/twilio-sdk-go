@@ -1,9 +1,9 @@
 package api
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	v2010 "github.com/RJPearson94/twilio-sdk-go/service/api/v2010"
-	"github.com/RJPearson94/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/client"
+	v2010 "github.com/timworks/twilio-sdk-go/service/api/v2010"
+	"github.com/timworks/twilio-sdk-go/session"
 )
 
 // API client to manage resources that are part of the Twilio API

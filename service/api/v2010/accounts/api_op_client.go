@@ -1,7 +1,7 @@
 // Package accounts contains auto-generated files. DO NOT MODIFY
 package accounts
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing account resources
 // See https://www.twilio.com/docs/iam/api/account for more details

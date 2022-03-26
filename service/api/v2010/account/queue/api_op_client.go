@@ -2,9 +2,9 @@
 package queue
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/queue/member"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/queue/members"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/queue/member"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/queue/members"
 )
 
 // Client for managing a specific queue resource

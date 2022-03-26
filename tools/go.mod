@@ -1,4 +1,4 @@
-module github.com/RJPearson94/twilio-sdk-go-tools
+module github.com/timworks/twilio-sdk-go-tools
 
 go 1.14
 

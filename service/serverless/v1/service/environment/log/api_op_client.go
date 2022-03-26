@@ -1,7 +1,7 @@
 // Package log contains auto-generated files. DO NOT MODIFY
 package log
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific log resource
 // See https://www.twilio.com/docs/runtime/functions-assets-api/api/logs for more details

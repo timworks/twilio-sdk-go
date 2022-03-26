@@ -1,7 +1,7 @@
 // Package revision contains auto-generated files. DO NOT MODIFY
 package revision
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific flow revision resource
 // See https://www.twilio.com/docs/studio/rest-api/v2/flow-revision for more details

@@ -1,7 +1,7 @@
 // Package ip_access_control_list_mapping contains auto-generated files. DO NOT MODIFY
 package ip_access_control_list_mapping
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific IP Access Control List Mapping resource
 type Client struct {

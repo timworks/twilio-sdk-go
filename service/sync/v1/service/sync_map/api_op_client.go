@@ -2,11 +2,11 @@
 package sync_map
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/sync/v1/service/sync_map/item"
-	"github.com/RJPearson94/twilio-sdk-go/service/sync/v1/service/sync_map/items"
-	"github.com/RJPearson94/twilio-sdk-go/service/sync/v1/service/sync_map/permission"
-	"github.com/RJPearson94/twilio-sdk-go/service/sync/v1/service/sync_map/permissions"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/sync/v1/service/sync_map/item"
+	"github.com/timworks/twilio-sdk-go/service/sync/v1/service/sync_map/items"
+	"github.com/timworks/twilio-sdk-go/service/sync/v1/service/sync_map/permission"
+	"github.com/timworks/twilio-sdk-go/service/sync/v1/service/sync_map/permissions"
 )
 
 // Client for managing a specific map resource

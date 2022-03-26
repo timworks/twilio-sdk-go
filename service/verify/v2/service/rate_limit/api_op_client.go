@@ -2,9 +2,9 @@
 package rate_limit
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/rate_limit/bucket"
-	"github.com/RJPearson94/twilio-sdk-go/service/verify/v2/service/rate_limit/buckets"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/rate_limit/bucket"
+	"github.com/timworks/twilio-sdk-go/service/verify/v2/service/rate_limit/buckets"
 )
 
 // Client for managing a specific rate limit resource

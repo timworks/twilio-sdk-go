@@ -2,13 +2,13 @@
 package sip
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/credential_list"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/credential_lists"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/domain"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/domains"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/ip_access_control_list"
-	"github.com/RJPearson94/twilio-sdk-go/service/api/v2010/account/sip/ip_access_control_lists"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/credential_list"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/credential_lists"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/domain"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/domains"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/ip_access_control_list"
+	"github.com/timworks/twilio-sdk-go/service/api/v2010/account/sip/ip_access_control_lists"
 )
 
 // Client for managing Session Initiation Protocol (SIP) resources

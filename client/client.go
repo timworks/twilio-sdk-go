@@ -7,11 +7,11 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/RJPearson94/twilio-sdk-go/session"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
 	"github.com/go-playground/form"
 	"github.com/go-resty/resty/v2"
 	"github.com/mitchellh/mapstructure"
+	"github.com/timworks/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 const (

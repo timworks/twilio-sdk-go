@@ -1,7 +1,7 @@
 // Package plugin_release contains auto-generated files. DO NOT MODIFY
 package plugin_release
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific plugin release resource
 // See https://www.twilio.com/docs/flex/developer/plugins/api/release for more details

@@ -11,16 +11,16 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/messaging"
-	"github.com/RJPearson94/twilio-sdk-go/service/messaging/v1/service"
-	"github.com/RJPearson94/twilio-sdk-go/service/messaging/v1/service/alpha_senders"
-	"github.com/RJPearson94/twilio-sdk-go/service/messaging/v1/service/phone_numbers"
-	"github.com/RJPearson94/twilio-sdk-go/service/messaging/v1/service/short_codes"
-	"github.com/RJPearson94/twilio-sdk-go/service/messaging/v1/services"
-	"github.com/RJPearson94/twilio-sdk-go/session"
-	"github.com/RJPearson94/twilio-sdk-go/session/credentials"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/messaging"
+	"github.com/timworks/twilio-sdk-go/service/messaging/v1/service"
+	"github.com/timworks/twilio-sdk-go/service/messaging/v1/service/alpha_senders"
+	"github.com/timworks/twilio-sdk-go/service/messaging/v1/service/phone_numbers"
+	"github.com/timworks/twilio-sdk-go/service/messaging/v1/service/short_codes"
+	"github.com/timworks/twilio-sdk-go/service/messaging/v1/services"
+	"github.com/timworks/twilio-sdk-go/session"
+	"github.com/timworks/twilio-sdk-go/session/credentials"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 var _ = Describe("Messaging V1", func() {

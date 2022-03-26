@@ -1,7 +1,7 @@
 // Package item contains auto-generated files. DO NOT MODIFY
 package item
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific list item resource
 // See https://www.twilio.com/docs/sync/api/listitem-resource for more details

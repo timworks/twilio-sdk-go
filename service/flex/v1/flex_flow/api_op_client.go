@@ -1,7 +1,7 @@
 // Package flex_flow contains auto-generated files. DO NOT MODIFY
 package flex_flow
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing a specific flex flow resource
 type Client struct {

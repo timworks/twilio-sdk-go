@@ -3,8 +3,8 @@ package fax
 import (
 	"encoding/xml"
 
-	"github.com/RJPearson94/twilio-sdk-go/twiml/fax/verbs"
-	"github.com/RJPearson94/twilio-sdk-go/utils"
+	"github.com/timworks/twilio-sdk-go/twiml/fax/verbs"
+	"github.com/timworks/twilio-sdk-go/utils"
 )
 
 // FaxResponse provides the structure and functions for generation TwiML that can be used

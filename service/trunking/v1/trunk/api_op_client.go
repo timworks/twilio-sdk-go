@@ -2,16 +2,16 @@
 package trunk
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/trunking/v1/trunk/credential_list"
-	"github.com/RJPearson94/twilio-sdk-go/service/trunking/v1/trunk/credential_lists"
-	"github.com/RJPearson94/twilio-sdk-go/service/trunking/v1/trunk/ip_access_control_list"
-	"github.com/RJPearson94/twilio-sdk-go/service/trunking/v1/trunk/ip_access_control_lists"
-	"github.com/RJPearson94/twilio-sdk-go/service/trunking/v1/trunk/origination_url"
-	"github.com/RJPearson94/twilio-sdk-go/service/trunking/v1/trunk/origination_urls"
-	"github.com/RJPearson94/twilio-sdk-go/service/trunking/v1/trunk/phone_number"
-	"github.com/RJPearson94/twilio-sdk-go/service/trunking/v1/trunk/phone_numbers"
-	"github.com/RJPearson94/twilio-sdk-go/service/trunking/v1/trunk/recording"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/trunking/v1/trunk/credential_list"
+	"github.com/timworks/twilio-sdk-go/service/trunking/v1/trunk/credential_lists"
+	"github.com/timworks/twilio-sdk-go/service/trunking/v1/trunk/ip_access_control_list"
+	"github.com/timworks/twilio-sdk-go/service/trunking/v1/trunk/ip_access_control_lists"
+	"github.com/timworks/twilio-sdk-go/service/trunking/v1/trunk/origination_url"
+	"github.com/timworks/twilio-sdk-go/service/trunking/v1/trunk/origination_urls"
+	"github.com/timworks/twilio-sdk-go/service/trunking/v1/trunk/phone_number"
+	"github.com/timworks/twilio-sdk-go/service/trunking/v1/trunk/phone_numbers"
+	"github.com/timworks/twilio-sdk-go/service/trunking/v1/trunk/recording"
 )
 
 // Client for managing a specific trunk resource

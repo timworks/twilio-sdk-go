@@ -1,7 +1,7 @@
 // Package message_interactions contains auto-generated files. DO NOT MODIFY
 package message_interactions
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing message interaction resources
 // See https://www.twilio.com/docs/proxy/api/sending-messages for more details

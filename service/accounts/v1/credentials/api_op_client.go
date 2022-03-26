@@ -2,11 +2,11 @@
 package credentials
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts/v1/credentials/aws_credential"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts/v1/credentials/aws_credentials"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts/v1/credentials/public_key"
-	"github.com/RJPearson94/twilio-sdk-go/service/accounts/v1/credentials/public_keys"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/accounts/v1/credentials/aws_credential"
+	"github.com/timworks/twilio-sdk-go/service/accounts/v1/credentials/aws_credentials"
+	"github.com/timworks/twilio-sdk-go/service/accounts/v1/credentials/public_key"
+	"github.com/timworks/twilio-sdk-go/service/accounts/v1/credentials/public_keys"
 )
 
 // Client for managing a credential resources

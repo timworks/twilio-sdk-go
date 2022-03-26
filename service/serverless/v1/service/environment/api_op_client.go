@@ -2,13 +2,13 @@
 package environment
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/environment/deployment"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/environment/deployments"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/environment/log"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/environment/logs"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/environment/variable"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/environment/variables"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/environment/deployment"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/environment/deployments"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/environment/log"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/environment/logs"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/environment/variable"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/environment/variables"
 )
 
 // Client for managing a specific environment resource

@@ -1,7 +1,7 @@
 // Package verifications contains auto-generated files. DO NOT MODIFY
 package verifications
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing verification resources
 // See https://www.twilio.com/docs/verify/api/verification for more details

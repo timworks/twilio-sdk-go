@@ -2,13 +2,13 @@
 package task
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/task/actions"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/task/field"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/task/fields"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/task/sample"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/task/samples"
-	"github.com/RJPearson94/twilio-sdk-go/service/autopilot/v1/assistant/task/statistics"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/task/actions"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/task/field"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/task/fields"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/task/sample"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/task/samples"
+	"github.com/timworks/twilio-sdk-go/service/autopilot/v1/assistant/task/statistics"
 )
 
 // Client for managing a specific task resource

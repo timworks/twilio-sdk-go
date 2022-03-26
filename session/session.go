@@ -1,7 +1,7 @@
 package session
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/session/credentials"
+	"github.com/timworks/twilio-sdk-go/session/credentials"
 )
 
 // Session represents a session object that can be used to make requests against the Twilio APIs

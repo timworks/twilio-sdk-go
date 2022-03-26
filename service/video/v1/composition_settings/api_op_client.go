@@ -1,7 +1,7 @@
 // Package composition_settings contains auto-generated files. DO NOT MODIFY
 package composition_settings
 
-import "github.com/RJPearson94/twilio-sdk-go/client"
+import "github.com/timworks/twilio-sdk-go/client"
 
 // Client for managing the default composition settings
 // See https://www.twilio.com/docs/video/api/encrypted-compositions for more details

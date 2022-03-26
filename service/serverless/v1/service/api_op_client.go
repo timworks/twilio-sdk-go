@@ -2,15 +2,15 @@
 package service
 
 import (
-	"github.com/RJPearson94/twilio-sdk-go/client"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/asset"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/assets"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/build"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/builds"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/environment"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/environments"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/function"
-	"github.com/RJPearson94/twilio-sdk-go/service/serverless/v1/service/functions"
+	"github.com/timworks/twilio-sdk-go/client"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/asset"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/assets"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/build"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/builds"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/environment"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/environments"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/function"
+	"github.com/timworks/twilio-sdk-go/service/serverless/v1/service/functions"
 )
 
 // Client for managing a specific service resource
