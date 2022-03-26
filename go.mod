@@ -3,7 +3,7 @@ module github.com/timworks/twilio-sdk-go
 go 1.15
 
 require (
-	github.com/RJPearson94/twilio-sdk-go v0.19.0
+	github.com/timworks/twilio-sdk-go v0.19.0
 	github.com/go-playground/form v3.1.4+incompatible
 	github.com/go-playground/universal-translator v0.17.0 // indirect
 	github.com/go-playground/validator v9.31.0+incompatible
